@@ -2,8 +2,6 @@
 
 SpoofMyDevice is an LSPosed / Xposed module for Android device spoofing. It lets you change the device model, brand, fingerprint, system properties, telephony values, and optional display metrics that selected apps can see.
 
-If you need an Android spoofing module for LSPosed, device profile switching, build fingerprint spoofing, or per-app device identity testing, SpoofMyDevice is built for that workflow.
-
 ## Screenshots
 
 <div>
