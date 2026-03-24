@@ -12,7 +12,6 @@ SpoofMyDevice is an LSPosed / Xposed module for Android device spoofing. It lets
 
 ## Features
 
-- LSPosed companion app with a clean Material 3 interface
 - Built-in device presets for Pixel, Galaxy, Xiaomi, tablets, and more
 - Custom profile editing with preset-based starting values
 - Spoofed `Build.*` fields, system properties, telephony data, and WebView user agent
